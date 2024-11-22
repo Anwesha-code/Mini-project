@@ -6,10 +6,10 @@ Input Handling: Ensures valid row and column input (0-2) and checks if a cell is
 
 
 Game Logic
-The game board is represented by a dictionary tic_tac_dic.
+The game board is represented by a dictionary tic_tac_toe.
 Players use symbols 'X' and 'O'.
-The check_if_won function checks for winning conditions after each move.
-In Player vs Bot mode, the bot makes random moves using the bots_move function.
+The check_winner function checks for winning conditions after each move.
+The code makes random moves using the bots_move function.
 
 
 Functions
@@ -20,3 +20,8 @@ help_section: Displays game instructions
 check_if_won: Checks if the current player has won
 main: Main game loop
 start: Initiates the game and handles game mode selection
+
+OBJECTIVES
+Personal growth and introduction to projects.
+Better understanding of python functions.
+Imroving the basic puzzle solving abilities of the user.
