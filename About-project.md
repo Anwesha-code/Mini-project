@@ -13,13 +13,10 @@ The code makes random moves using the bots_move function.
 
 
 Functions
-get_player_input: Handles player input and updates the game board
-display_game_board: Prints the current state of the game board
-bots_move: Generates a random move for the bot
-help_section: Displays game instructions
-check_if_won: Checks if the current player has won
+tic_tac_toe: Handles player input and updates the game board
+is_draw: Prints the current state of the game board
+check_winner: Checks if the current player has won
 main: Main game loop
-start: Initiates the game and handles game mode selection
 
 OBJECTIVES
 Personal growth and introduction to projects.
