@@ -9,7 +9,7 @@ Game Logic
 The game board is represented by a dictionary tic_tac_toe.
 Players use symbols 'X' and 'O'.
 The check_winner function checks for winning conditions after each move.
-The code makes random moves using the bots_move function.
+
 
 
 Functions
